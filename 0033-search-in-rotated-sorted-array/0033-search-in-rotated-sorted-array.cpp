@@ -11,7 +11,7 @@ public:
 
     if(nums[left]<=nums[number]){
             if(nums[left]<=target && target<nums[number])
-            right=number -1;
+            right=number-1;
             else
             left=number+1;
         }

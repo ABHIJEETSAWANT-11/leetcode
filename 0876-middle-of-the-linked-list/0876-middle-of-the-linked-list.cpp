@@ -24,7 +24,7 @@ public:
          
        }
          return mid;*/
-
+        /*
         int len=0;
         ListNode*temp=head;
 
@@ -39,5 +39,20 @@ public:
             mid=mid->next;
         }
         return mid;
+        */
+        int len=0;
+
+        ListNode*temp=head;
+        while(temp!=NULL){
+            len++;
+            temp=temp->next;
+            }
+       
+        int midx =len /2;
+          ListNode*m=head;
+        for(int i=0;i<midx;i++){
+                m=m->next;
+        }
+     return m;
     }
 };

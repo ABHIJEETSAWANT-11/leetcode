@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0704-binary-search) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |

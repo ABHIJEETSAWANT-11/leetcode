@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1929-concatenation-of-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |

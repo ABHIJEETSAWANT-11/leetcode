@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0136-single-number) |
+| [0560-subarray-sum-equals-k](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0704-binary-search) |
 | [1929-concatenation-of-array](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0560-subarray-sum-equals-k](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0009-palindrome-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

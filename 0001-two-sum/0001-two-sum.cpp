@@ -6,11 +6,8 @@ public:
         for(int j=i+1;j<nums.size();j++){
            sum=nums[i]+nums[j];
             
-           
-           
             if(sum==target ){
 
-                
             return{i,j};
 
 

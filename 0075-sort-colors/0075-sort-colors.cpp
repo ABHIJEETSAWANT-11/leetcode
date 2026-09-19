@@ -10,9 +10,6 @@ public:
         }
 
         nums.clear();
-
-
-        
         nums.insert(nums.end(), red.begin(), red.end());
         nums.insert(nums.end(), white.begin(), white.end());
         nums.insert(nums.end(), blue.begin(), blue.end());

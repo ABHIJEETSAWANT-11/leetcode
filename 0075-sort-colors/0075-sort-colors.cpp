@@ -8,6 +8,7 @@ public:
             else if(nums[i] == 1) white.push_back(1);
             else blue.push_back(2);
         }
+        
 
 
         

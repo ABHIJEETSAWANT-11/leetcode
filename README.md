@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0704-binary-search) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1929-concatenation-of-array](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0088-merge-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 <!---LeetCode Topics End-->

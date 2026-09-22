@@ -13,6 +13,7 @@ public:
             if(nums[left]<=target && target<nums[number])
             right=number-1;
             else
+                
             left=number+1;
         }
    

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0704-binary-search) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1929-concatenation-of-array](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1929-concatenation-of-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0561-array-partition) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 ## Binary Search
 |  |
@@ -108,5 +110,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0561-array-partition) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->

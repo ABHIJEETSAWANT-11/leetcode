@@ -7,6 +7,7 @@ public:
 
 
         
+        
         string s = to_string(x);
 
         int left = 0;

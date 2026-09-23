@@ -5,8 +5,6 @@ public:
         if(x < 0)
             return false;
 
-
-        
         
         string s = to_string(x);
 

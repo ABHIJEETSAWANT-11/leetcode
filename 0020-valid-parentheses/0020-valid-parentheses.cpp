@@ -10,6 +10,7 @@ public:
                     (s[i] == '{' && s[i + 1] == '}') ||
                     (s[i] == '[' && s[i + 1] == ']')) {
 
+                    //comment
                     s.erase(i, 2);
                     break;
                 }

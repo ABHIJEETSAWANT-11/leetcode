@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0704-binary-search) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |

@@ -134,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0595-big-countries) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1280-students-and-examinations](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1280-students-and-examinations) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

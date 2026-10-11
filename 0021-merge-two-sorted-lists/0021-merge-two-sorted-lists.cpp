@@ -15,10 +15,6 @@ public:
                 ListNode* t = new ListNode(tempA->val);
                 tempC->next = t;
                 tempC = t;
-                
-
-                
-
                 tempA = tempA->next;
             }
             else {

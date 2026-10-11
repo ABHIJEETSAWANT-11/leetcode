@@ -15,8 +15,11 @@ public:
                     //comment
                     s.erase(i, 2);
                     break;
+            
                 }
             }
+
+            
 
             if (n == s.size())
                 break;

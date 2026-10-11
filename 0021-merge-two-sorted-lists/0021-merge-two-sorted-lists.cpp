@@ -8,9 +8,7 @@ public:
         ListNode* c = new ListNode(100);
         ListNode* tempC = c;
         while (tempA != NULL && tempB != NULL) {
-
             //comment
-
             if (tempA->val <= tempB->val) {
                 ListNode* t = new ListNode(tempA->val);
                 tempC->next = t;

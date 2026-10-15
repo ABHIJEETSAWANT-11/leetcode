@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0020-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

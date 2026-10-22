@@ -146,4 +146,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0392-is-subsequence) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/ABHIJEETSAWANT-11/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
